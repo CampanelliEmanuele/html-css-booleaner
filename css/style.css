@@ -16,6 +16,10 @@ body {
     background-color: deepskyblue;
 }
 
+.bg-yellow {
+    background-color: rgb(255, 247, 0);
+}
+
 .bg-white {
     background-color: white;
 }
@@ -42,4 +46,8 @@ td {
     text-align: center;
     padding-top: 1%;
     padding-bottom: 1%;
+}
+
+ul {
+    padding-left: 1%;
 }
