@@ -2,6 +2,13 @@
     padding-top: 2.5%;
     padding-bottom: 2.5%;
     padding-left: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.inner-container {
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 main {
@@ -10,6 +17,10 @@ main {
 
 .main-title-container {
     padding-bottom: 2%;
+}
+
+#main-title {
+    margin-bottom: 0%;
 }
 
 .footer-text {
