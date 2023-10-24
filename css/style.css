@@ -3,56 +3,30 @@ body {
     margin: auto;
 }
 
-main {
-    margin: 1%;
-}
-
-.header-container {
-    padding-top: 2.5%;
-    padding-bottom: 2.5%;
+ul {
     padding-left: 1%;
 }
 
-.main-title-container {
-    padding-bottom: 2%;
-}
-
-.bg-sky-blue {
-    background-color: deepskyblue;
-}
-
-.bg-yellow {
-    background-color: rgb(255, 247, 0);
-}
-
-.bg-white {
-    background-color: white;
-}
-
-.bg-purple {
-    background-color: purple;
-}
-
 /* css code to color odd rows */
+table {
+    width: 100%;
+}
+
 tr:nth-child(odd) {
     background-color: #96a5a5;
+    text-align: left;
 }
 
 tr:nth-child(even) {
     background-color: #e4e7e7;
 }
 
+#first-row {
+    background-color: #38879b;
+    color: white;
+}
+
 td {
-    padding-top: 2%;
-    padding-bottom: 2%;
-}
-
-.footer-text {
-    text-align: center;
-    padding-top: 1%;
-    padding-bottom: 1%;
-}
-
-ul {
-    padding-left: 1%;
+    padding-top: 0.7%;
+    padding-bottom: 0.7%;
 }
