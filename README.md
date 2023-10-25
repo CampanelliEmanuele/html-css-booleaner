@@ -17,3 +17,13 @@ Come l'esercizio scorso e d'ora in avanti sempre, i passaggi da fare sono:
 
 Utilizzare l’immagine pattern.png fornita come sfondo per la parte di intestazione.
 Far sì che il contenuto della pagina si disponga al centro, occupando l’80% dello spazio totale dello schermo in larghezza.
+
+## Svolgimento
+
+### Schermata da emulare
+
+<img alt="base-exercise" src="./img/The-Booleaner-base.png">
+
+### Risultato raggiunto
+
+<img alt="base-exercise" src="./img/my-base.PNG">
