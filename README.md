@@ -20,10 +20,18 @@ Far sì che il contenuto della pagina si disponga al centro, occupando l’80% d
 
 ## Svolgimento
 
-### Schermata da emulare
+### Schermata base da emulare
 
 <img alt="base-exercise" src="./img/The-Booleaner-base.png">
 
 ### Risultato raggiunto
 
 <img alt="base-exercise" src="./img/my-base.PNG">
+
+### Schermata bonus da emulare
+
+<img alt="base-exercise" src="./img/The-Booleaner-bonus.png">
+
+### Risultato raggiunto (incompleto)
+
+<img alt="base-exercise" src="./img/my-bonus.PNG">
